@@ -32,3 +32,16 @@ d. now you will have to make your frontend app to render the data and functional
 
 f. Documentation.
 
+***
+
+## Things I want to know more about
+
+how exactly can we manipulate and use data within mongoDB and how servers can be connected with big data.
+
+*** 
+## External Resources 
+
+[CRUD](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
+
+[REST & CRUD](https://www.youtube.com/watch?v=EzNcBhSv1Wo)
+
