@@ -23,8 +23,12 @@ REST is a paradigm of building web services by exposing CRUD (Create, Read, Upda
 2. **If you had to describe the process of creating a RESTful API in 5 steps, what would they be?**
 
 a. create your server 
+
 b. create your CRUD routes so you can access data in your database.
+
 c. create the database and give it initial data.
+
 d. now you will have to make your frontend app to render the data and functionalize it.
+
 f. Documentation.
 
