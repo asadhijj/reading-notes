@@ -14,5 +14,5 @@
 
 class 1 -> [Python Class 01 ](/code-401-python/class-01/README.md)
 
-class 2 => [Python Class 01](/code-401-python/class-02/README.md)
+class 2 => [Python Class 02](/code-401-python/class-02/README.md)
 
