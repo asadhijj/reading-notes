@@ -43,11 +43,16 @@ with open('dog_breeds.txt') as reader:
 ```
 
 you can choose the mode of which the file you want to be opened with by using the following : 
-|Character   | 	|Meaning                                                  |
-|--------    |  |-------                                                  |
-|'r'         | 	|Open for reading (default)                               |
-|'w' 	     |  |Open for writing, truncating (overwriting) the file first|
-|'rb' or 'wb'| 	|Open in binary mode (read/write using byte data)         |
+
+
+
+|Character   |Meaning                                                  |
+|------------|---------------------------------------------------------|
+|'r'         |Open for reading (default)                               |
+|'w' 	       |Open for writing, truncating (overwriting) the file first|
+|'rb' or 'wb'|Open in binary mode (read/write using byte data)         |
+
+
 
 
 **Types Of Files** 
@@ -104,6 +109,7 @@ Imagine that you always had to implement some sort of action to clean up after e
 [Files](https://realpython.com/read-write-files-python/)
 
 [Exception](https://realpython.com/python-exceptions/)
+[Video](https://realpython.com/courses/reading-and-writing-files-python/)
 
 *** 
 ## Things i want to learn more about 
