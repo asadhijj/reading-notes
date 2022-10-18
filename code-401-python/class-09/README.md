@@ -132,3 +132,22 @@ it depends on :
 
    1. More memory is required when compared to an array. This is because you need a pointer (which takes up its own memory) to point you to the next element.
    2. Search operations on a linked list are very slow. Unlike an array, you don't have the option of random access.
+
+
+
+***
+
+## Sources 
+
+[Data structures](https://www.techtarget.com/searchdatamanagement/definition/data-structure#:~:text=A%20data%20structure%20is%20a,they%20need%20in%20appropriate%20ways.)
+
+[Linked Lists](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
+
+[Linked Lists implementation](https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/#:~:text=Linked%20Lists%20are%20a%20data,list%20is%20called%20a%20node.)
+
+
+***
+
+## Things i want to learn more about 
+
+Other types of data structures and how to choose a suitable data struucter for our software
