@@ -41,3 +41,5 @@ class 13 => [Pyhton class 13](/code-401-python/class-13/README.md)
 class 14 => [Pyhton class 14](/code-401-python/class-14/README.md)
 
 class 15 => [Pyhton class 15](/code-401-python/READMECLASS15.md)
+
+class 16 => [Pyhton class 16](/code-401-python/class-16/README.md)
