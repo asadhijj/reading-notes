@@ -51,3 +51,5 @@ class 19 =>[Python class 19](/code-401-python/class-19/README.md)
 class 20 =[Python class 20](/code-401-python/class-20/README.md)
 
 class 22 =[Python class 22](/code-401-python/class-22/README.md)
+
+class 24 =[Python class 24](/code-401-python/class-24/README.md)
