@@ -55,3 +55,10 @@ class 22 =[Python class 22](/code-401-python/class-22/README.md)
 class 24 =[Python class 24](/code-401-python/class-24/README.md)
 
 class 25 =[Python class 25](/code-401-python/class-25/README.md)
+
+class 26 =[Python class 25](/code-401-python/class-26/README.md)
+
+class 27 =[Python class 25](/code-401-python/class-27/README.md)
+
+class 28 =[Python class 25](/code-401-python/class-28/README.md)
+
