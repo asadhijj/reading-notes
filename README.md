@@ -48,17 +48,17 @@ class 17 =>[Python class 17](/code-401-python/class-17/README.md)
 
 class 19 =>[Python class 19](/code-401-python/class-19/README.md)
 
-class 20 =[Python class 20](/code-401-python/class-20/README.md)
+class 20 =>[Python class 20](/code-401-python/class-20/README.md)
 
-class 22 =[Python class 22](/code-401-python/class-22/README.md)
+class 22 =>[Python class 22](/code-401-python/class-22/README.md)
 
-class 24 =[Python class 24](/code-401-python/class-24/README.md)
+class 24 =>[Python class 24](/code-401-python/class-24/README.md)
 
-class 25 =[Python class 25](/code-401-python/class-25/README.md)
+class 25 =>[Python class 25](/code-401-python/class-25/README.md)
 
-class 26 =[Python class 25](/code-401-python/class-26/README.md)
+class 26 =>[Python class 26](/code-401-python/class-26/README.md)
 
-class 27 =[Python class 25](/code-401-python/class-27/README.md)
+class 27 =>[Python class 27](/code-401-python/class-27/README.md)
 
-class 28 =[Python class 25](/code-401-python/class-28/README.md)
+class 28 =>[Python class 28](/code-401-python/class-28/README.md)
 
