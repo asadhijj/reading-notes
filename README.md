@@ -72,5 +72,8 @@ class 33 =>[Python class 33](/code-401-python/class-33/README.md)
 
 class 34 =>[Python class 34](/code-401-python/class-34/README.md)
 
+class 35 =>[Python class 35](/code-401-python/class-35/README.md)
+
+
 
 
